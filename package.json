@@ -1,7 +1,7 @@
 {
-    "name": "aurora-launcher-app",
-    "version": "0.0.5-dev",
-    "description": "Launcher for Minecraft",
+    "name": "AllCraft-launcher-app",
+    "version": "0.0.6-dev",
+    "description": "Launcher for AllCraft",
     "main": "build/main/index-obf.loader.js",
     "private": true,
     "scripts": {
@@ -91,13 +91,13 @@
         }
     },
     "build": {
-        "appId": "ru.aurora.launcher",
-        "productName": "Aurora Launcher",
+        "appId": "ru.allcraft.launcher",
+        "productName": "AllCraft Launcher",
         "publish": [
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
+                "owner": "Dima9930",
                 "repo": "Launcher"
             }
         ],
