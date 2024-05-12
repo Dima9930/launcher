@@ -1,6 +1,6 @@
 {
     "name": "AllCraft-launcher-app",
-    "version": "0.2",
+    "version": "0.1",
     "description": "Launcher for AllCraft.",
     "main": "build/main/index.js",
     "private": true,
@@ -94,7 +94,7 @@
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
+                "owner": "Dima9930",
                 "repo": "Launcher"
             }
         ],
