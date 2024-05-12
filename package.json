@@ -87,14 +87,14 @@
             "parser": "typescript"
         }
     },
-    "build": {
-        "appId": "ru.aurora.launcher",
-        "productName": "Aurora Launcher",
+     "build": {
+        "appId": "ru.allcraft.launcher",
+        "productName": "AllCraft Launcher",
         "publish": [
             {
                 "provider": "github",
                 "releaseType": "release",
-                "owner": "AuroraTeam",
+                "owner": "Dima9930",
                 "repo": "Launcher"
             }
         ],
