@@ -1,7 +1,7 @@
 {
     "name": "AllCraft-launcher-app",
     "version": "0.0.5",
-    "description": "Launcher for AllCraft",
+    "description": "Launcher for AllCraft.",
     "main": "build/main/index.js",
     "private": true,
     "scripts": {
